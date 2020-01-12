@@ -12,22 +12,22 @@
 
 .sprite-image {
   width: 80%;
-  height: 150px;
-  margin: 10px auto;
-  background-color: #585858;
-  border: 15px solid #DEDEDE;
+  height: 250px;
+  margin: 20px auto;
+  background-color: #fafaf2;
+  border: 15px solid rgb(56, 117, 197);
   border-radius: 5px;
-  color: #585858;
+  color: #e0b9b9;
 }
 
 .data-wrapper {
   width: 80%;
-  height: 110px;
+  height: 130px;
   padding: 10px;
   margin: 0 auto;
-  background-color: #585858;
+  background-color: #868282;
   border-radius: 5px;
-  box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.22);
+  box-shadow: 5px 5px 5px 5px rgba(216, 213, 213, 0.5);
   color: #FFF;
 }
 
@@ -36,5 +36,5 @@
 }
 
 .data-char {
-  font-size: 10px;
+  font-size: 12px;
 }
