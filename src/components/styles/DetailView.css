@@ -15,7 +15,6 @@
   height: 250px;
   margin: 20px auto;
   background-color: #fafaf2;
-  border: 15px solid rgb(56, 117, 197);
   border-radius: 5px;
   color: #e0b9b9;
 }
@@ -25,9 +24,9 @@
   height: 130px;
   padding: 10px;
   margin: 0 auto;
-  background-color: #868282;
+  background-color: rgb(56, 117, 197);
   border-radius: 5px;
-  box-shadow: 5px 5px 5px 5px rgba(216, 213, 213, 0.5);
+  box-shadow: 5px 5px 5px 5px rgba(20, 59, 110, 0.8);
   color: #FFF;
 }
 
@@ -37,4 +36,11 @@
 
 .data-char {
   font-size: 12px;
+}
+
+.header {
+  text-align: center;
+  font-size: 2rem;
+  padding: 10px;
+
 }
